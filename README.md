@@ -8,4 +8,5 @@
 # https://scratch.mit.edu/projects/502097390
 # Troca de Variáveis
 #https://scratch.mit.edu/projects/502125832
+
 Aula de Programação e Algorítimos- VisualG e Scratch
